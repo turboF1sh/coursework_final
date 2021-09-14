@@ -1,0 +1,25 @@
+{
+  "hero": {
+    "header": "Naturally  <br> Irresistible!",
+    "subtext": "Uzbekistan is a mysterious country of the East, where the history of cities gathered in legends, where the sun shines all year round and this reflects the unique nature and beautiful hearts of people.",
+    "bg_image": "/images/Uzbekistan_1.jpg"
+  },
+
+  "hero2": {
+    "header": "Architectural <br> Wonderlust",
+    "subtext": "Uzbekistan is the proud home to a spellbinding arsenal of architecture and ancient cities, all deeply infused with the bloody, fascinating history of the Silk Road.",
+    "bg_image": "/images/Uzbekistan_2.jpg"
+  },
+  
+  "about": {
+    "header": "Welcome to Silkroad Web platform.",
+    "subtext": "The platform – allows users to find huge variety of guided tours, activities for people according the region, area or historical place that they have desire to visit and register their individual or group tour preferences. ",
+    "bg_image": "/images/Uzbekistan_5.jpg",
+    "images": [
+      {"image": "/images/Samarkand_1.jpg", "caption": "Samarkand"},
+      {"image": "/images/Bukhara_1.jpg", "caption": "Bukhara"},
+      {"image": "/images/Tashkent_1.jpg", "caption": "Tashkent"},
+      {"image": "/images/Khiva_1.jpg", "caption": "Khiva"}
+    ]
+  }
+}

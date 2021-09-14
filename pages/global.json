@@ -1,0 +1,9 @@
+{
+  "title": "Silkroad Web",
+  "description": "Get connected to  historical Uzbekistan through the knowledge and cultural experience of locals.",
+  "hours": [
+    {"day": "Monday - Friday", "time": "9am - 5pm"},
+    {"day": "Weekends", "time": "10am - 3pm"}
+  ],
+  "contact": "/"
+}
